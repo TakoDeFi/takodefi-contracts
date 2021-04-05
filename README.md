@@ -32,8 +32,8 @@ truffle migrate
 
 ### BSCMAINNET
 
-- TakoToken - <https://bscscan.com/token/0xa245a0c2a3910dfdC5e433E6425e6dc696C4e99E>
-- MasterChef - <https://bscscan.com/address/0xCCc990b638Bf95C20D15BE900F8b4C9923311164>
+- TakoToken - <https://bscscan.com/token/0x2f3391aebe27393aba0a790aa5e1577fea0361c2>
+- MasterChef - <https://bscscan.com/address/0x4448336BA564bd620bE90d55078e397c26492a43>
 - Timelock - <https://bscscan.com/address/0xB19300246e19929a617C4260189f7B759597B8d8>
 
 ## License
