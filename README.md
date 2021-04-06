@@ -1,6 +1,6 @@
 # TakoDeFi
 
-![GitHub](https://img.shields.io/github/license/takodefi/takodefi-contracts)
+![GitHub](https://img.shields.io/github/license/takodefi/takodefi-contracts) [![MythXBadge](https://badgen.net/https/api.mythx.io/v1/projects/d02198e1-9587-472e-90d3-c039589a9bad/badge/data?cache=300&icon=https://raw.githubusercontent.com/ConsenSys/mythx-github-badge/main/logo_white.svg)](https://docs.mythx.io/dashboard/github-badges)
 
 These contracts are the heart of TakoDefi, feel free to read the code. New features are coming soon...
 
